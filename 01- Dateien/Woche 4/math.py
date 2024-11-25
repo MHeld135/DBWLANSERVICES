@@ -1,8 +1,8 @@
-import math
+from math import pi, sqrt
 
 def main() :
-    m = math
-    print(m.pi)
+    print(pi)
+    print(sqrt(2))
 
 main(   )
 
